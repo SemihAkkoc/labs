@@ -129,5 +129,5 @@ public class Food {
         d = d / factor;
         return d;
     }
-    
+    //great code :D
 }
